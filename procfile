@@ -1,1 +1,1 @@
-web: gunicorn HeroApp.wsgi --log-file -
+web: gunicorn HeroApp.wsgi
